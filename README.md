@@ -6,7 +6,7 @@ Code used for population genomic and seascape genomic analyses in:
 
 This repo contains R scripts used to generate the population structure, diversity, connectivity, and genotype–environment association results for *Eisenia arborea* ddRAD SNP data.
 
-> Note: The scripts were written as an analysis “notebook in .R files” and assume some objects are created in a prior script / interactive session. 
+> Note: Some scripts assume some objects are created in a prior script / interactive session. 
 ## Contents
 
 - `vcf_filtered2.vcf`  
